@@ -1,27 +1,27 @@
-<h1 align="center">Hi 👋, I'm Quân</h1>
+<h1 align="center">Hi 👋, I'm Quân(SwT)</h1>
 <p align="center">
-  <i>A passionate Software Engineer from Vietnam</i>
+  <i>A passionate Software Engineer</i>
 </p>
 
 ---
 
-🎓 I graduated from **Văn Lang University**, majoring in **Software Engineering**  
-💻 I’ve worked with: C#, C++, Python, Java, JavaScript, HTML, CSS, Node.js, React  
-🛠 Tools: Docker, Git, GitHub, GitKraken  
-📅 2024 Goal: Become confident in full-stack & DevOps pipeline  
-🎮 Fun fact: I love drawing, gaming and collecting figure models
+I graduated from **Văn Lang University**, majoring in **Software Engineering**  
+I’ve worked with: C#, C++, Python, Java, JavaScript, HTML, CSS, Node.js, React  
+Tools: Docker, Git, GitHub, GitKraken  
+2024 Goal: Become confident in full-stack & DevOps pipeline  
+Fun fact: I love drawing, gaming and collecting figure models
 
 ---
 
-### 🔥 Most Used Languages
+### Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quandd31112&layout=compact&theme=radical)
 
 ---
 
-### 🧠 Skills
+### Skills
 
-#### 👨‍💻 Languages  
+#### Languages  
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-#### 🚀 Frameworks & Libraries  
+#### Frameworks & Libraries  
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 </p>
 
-#### 🧰 Tools  
+#### Tools  
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -48,20 +48,20 @@
   <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white"/>
 </p>
 
-#### 🗄️ Databases  
+#### Databases  
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-#### 💻 IDE  
+#### IDE  
 <p>
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sublime Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white"/>
 </p>
 
-#### 🖥️ Operating Systems  
+#### Operating Systems  
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
@@ -71,7 +71,6 @@
 
 ---
 
-### 🔗 Contact
+### Contact
 
-> 💬 *I'm open to collaboration and tech talks. Connect with me anytime!*
-
+> *I'm open to collaboration and tech talks. Connect with me anytime!*
