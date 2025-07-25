@@ -13,12 +13,6 @@ Fun fact: I love drawing, gaming and collecting figure models
 
 ---
 
-### Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quandd31112&layout=compact&theme=radical)
-
----
-
 ### Skills
 
 #### Languages  
