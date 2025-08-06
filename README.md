@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Quân(SwT)</h1>
+<h1 align="center">Hi 👋, I'm Quân(Shika)</h1>
 <p align="center">
   <i>A passionate Software Engineer</i>
 </p>
