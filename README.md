@@ -8,7 +8,7 @@
 I graduated from **Văn Lang University**, majoring in **Software Engineering**  
 I’ve worked with: C#, C++, Python, Java, JavaScript, HTML, CSS, Node.js, React  
 Tools: Docker, Git, GitHub, GitKraken  
-2026 Goal: Become confident in full-stack & DevOps pipeline  
+2026 Goal: Become confident in Game develop  
 Fun fact: I love drawing, gaming and collecting figure models
 
 ---
